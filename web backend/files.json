@@ -1,0 +1,18 @@
+{
+  "files": [
+    {
+      "id": "1b16f069-d371-45bc-8a70-fa57c6fe7f36",
+      "job_id": "bc7a0f0e-cbc6-4159-8beb-7398e066a3c9",
+      "file_type": "datafile",
+      "file_url": "https://qcducpjqldbaziamgjww.supabase.co/storage/v1/object/public/job-files/job-bc7a0f0e-cbc6-4159-8beb-7398e066a3c9-1773301684833-401329076.pdf",
+      "uploaded_at": "2026-03-12T02:18:07.651Z"
+    },
+    {
+      "id": "f914df5f-5d2c-469f-8f56-3ae1362bf8bc",
+      "job_id": "69047489-0f5a-4b26-bd34-65d8c1d5ca51",
+      "file_type": "datafile",
+      "file_url": "https://qcducpjqldbaziamgjww.supabase.co/storage/v1/object/public/job-files/job-69047489-0f5a-4b26-bd34-65d8c1d5ca51-1773300731964-152954849.pdf",
+      "uploaded_at": "2026-03-12T02:02:14.548Z"
+    }
+  ]
+}
