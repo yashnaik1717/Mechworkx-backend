@@ -1,0 +1,46 @@
+{
+  "jobs": [
+    {
+      "id": "bc7a0f0e-cbc6-4159-8beb-7398e066a3c9",
+      "customer_id": "9683b97e-9144-4223-94a3-b094f5469c2a",
+      "title": "title",
+      "description": "description",
+      "material_type": "Steel",
+      "quantity": 50,
+      "budget": "5000.00",
+      "deadline": "2026-12-30T18:30:00.000Z",
+      "job_type": "public",
+      "delivery_location": "parnera,valsad",
+      "address": "sai lila mall",
+      "city": "valsad",
+      "pincode": "396001",
+      "material_provider": "vendor",
+      "status": "open",
+      "awarded_vendor_id": null,
+      "job_work_id": null,
+      "created_at": "2026-03-12T02:18:07.651Z",
+      "updated_at": "2026-03-12T02:18:07.651Z"
+    },
+    {
+      "id": "69047489-0f5a-4b26-bd34-65d8c1d5ca51",
+      "customer_id": "9683b97e-9144-4223-94a3-b094f5469c2a",
+      "title": "title",
+      "description": "description",
+      "material_type": "Steel",
+      "quantity": 50,
+      "budget": "5000.00",
+      "deadline": "2026-12-30T18:30:00.000Z",
+      "job_type": "public",
+      "delivery_location": "parnera,valsad",
+      "address": "sai lila mall",
+      "city": "valsad",
+      "pincode": "396001",
+      "material_provider": "vendor",
+      "status": "open",
+      "awarded_vendor_id": null,
+      "job_work_id": null,
+      "created_at": "2026-03-12T02:02:14.548Z",
+      "updated_at": "2026-03-12T02:02:14.548Z"
+    }
+  ]
+}
